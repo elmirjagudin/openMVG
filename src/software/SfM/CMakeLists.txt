@@ -247,6 +247,7 @@ target_link_libraries(openMVG_main_evalQuality
   openMVG_system
   openMVG_features
   openMVG_sfm
+  openMVG_image
   ${STLPLUS_LIBRARY}
 )
 
